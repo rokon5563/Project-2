@@ -1,0 +1,83 @@
+body{
+    font-family: serif;
+   margin: 0;
+   padding: 0;
+}
+.main{
+   background-image: url("ima/top-banner.png");
+   background-repeat: no-repeat;
+   height: 500px;
+  
+}
+h1{
+    font-size: 50px;
+}
+.rokon{
+    color: orange;
+
+}
+.hafe{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.imag{
+    width: 447px;
+}
+.hafe .botton{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    padding: 8px 20px;
+    margin-top: 15px;
+    border-radius: 10px;
+    color: azure;
+}
+.middle{
+    background-image: url(ima/dream-bg.png);
+    background-repeat: no-repeat;
+    height: 500px;
+    background-position: right;
+}
+.foot{
+    width: 100%;
+    height: 100vh;
+    background-image: url(ima/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.exp{
+    color: deepskyblue;
+}
+.full{
+    width: 39%;
+    float: left;
+    margin-left: 52px;
+    height: 263px;
+    padding: 18px;
+    box-shadow: 1px;
+    box-shadow: 5px 5px 20px rgb(112, 25, 25);
+    border-left: 5px solid red;
+    border-image: linear-gradient(blue,yellow);
+    border-image-slice: 1;
+}
+.full .para{
+    color: orange;
+}
+.footer{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
